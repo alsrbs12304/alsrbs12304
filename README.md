@@ -3,8 +3,9 @@
   <img src="https://img.shields.io/badge/Tech Blog-30B980?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;
-
 </p>
+
+👋 Hi there! I'm MinGyun Park. 🌱
 
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 <p>Techs that I've used at least once </p>
