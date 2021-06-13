@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Email : mingyun12304@gmail.com
 
 
-## 🛠Tech Stack🛠
+## 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-f28332?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
