@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Gyunni
+# Gyunni🧑🏻‍💻
 Email : mingyun12304@gmail.com <img src="https://img.shields.io/badge/Gmail-dc493a?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
 
 
