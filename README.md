@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-2F7293?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-f0852d?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Mysql-50799e?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-96bd52?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
