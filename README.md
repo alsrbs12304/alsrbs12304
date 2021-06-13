@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Gyunni 
+# Gyunni
+Email : mingyun12304@gmail.com
+
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
