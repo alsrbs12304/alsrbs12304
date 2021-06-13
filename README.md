@@ -6,9 +6,9 @@
 
 </p>
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-<p align="center">Techs that I've used at least once </p>
-<p align="center">
+<h3><b>🛠 Tech Stack 🛠</b></h3>
+<p>Techs that I've used at least once </p>
+<p>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
