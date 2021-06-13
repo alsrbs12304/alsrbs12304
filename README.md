@@ -1,6 +1,9 @@
 <h1><b>Gyunni</b></h1>
 <p>
-Email : mingyun12304@gmail.com
+  <img src="https://img.shields.io/badge/Tech Blog-30B980?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;
+
 </p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
