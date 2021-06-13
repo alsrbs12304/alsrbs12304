@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<ceter>### Tech Stack</center>
+### Tech Stack
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-2F7293?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-765ad4?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp;
