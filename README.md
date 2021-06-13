@@ -1,6 +1,6 @@
 <h1><b>Gyunni</b></h1>
 <p>
-<img src="https://img.shields.io/badge/Gmail-dc493a?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
+Email : mingyun12304@gmail.com
 </p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
