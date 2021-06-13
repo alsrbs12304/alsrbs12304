@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Gyunni
-Email : mingyun12304@gmail.com <img src="https://img.shields.io/badge/Gmail-C1513F?style=flat-square&logo=Gmail.js&logoColor=white"/>&nbsp;
+Email : mingyun12304@gmail.com <img src="https://img.shields.io/badge/Gmail-c8493a?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
 
 
 ## 🛠 Tech Stack 🛠
