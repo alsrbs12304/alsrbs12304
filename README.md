@@ -1,5 +1,5 @@
-<h1 align="center"><b>Gyunni</b></h1>
-<p align="center">
+<h1><b>Gyunni</b></h1>
+<p>
 <img src="https://img.shields.io/badge/Gmail-dc493a?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
 </p>
 
