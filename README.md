@@ -1,11 +1,5 @@
 <h1><b>Gyunni</b></h1>
 👋 Hi there! I'm MinGyun Park. 🌱<br><br/>
-<p>
-<a href = "https://velog.io/@mingyun12304/about" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-30B980?style=flat-square&logo=Vimeo&logoColor=white"/> </a> &nbsp;
-<a href="mailto:"mingyun12304@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;
-</p>
-
 
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 <p><b>Techs that I've used at least once</b></p>
