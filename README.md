@@ -1,4 +1,4 @@
-<h1><b>Gyunni</b></h1>
+<h1><b>Gyuny</b></h1>
 👋 Hi there! I'm MinGyun Park. 🌱<br><br/>
 
 <h3><b>🛠 Tech Stack 🛠</b></h3>
